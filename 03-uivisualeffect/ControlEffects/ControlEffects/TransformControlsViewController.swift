@@ -47,7 +47,7 @@ class TransformControlsViewController: UIViewController {
   var backgroundView: UIVisualEffectView?
   
   override func viewDidLoad() {
-    if currentTransform != nil {
+    if currentTransform {
       applyTransformToSliders(currentTransform!)
     }
     
