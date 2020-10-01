@@ -24,6 +24,10 @@ iOS8 Day-by-Day is now a published eBook. You can get hold of your copy
 from Leanpub at
 [leanpub.com/ios8daybyday](https://leanpub.com/ios8daybyday).
 
+### The need
+
+click here to know the need -> https://problogger.com/10-steps-to-writing-a-successful-series-on-your-blog/
+
 
 ## Blog Series
 
